@@ -769,7 +769,7 @@ body > nav.menu-subtitle > .container {
 }
 
 .menu-subtitle .menu-brand {
-    padding: 15px 0;
+    padding: 9px 0 5px 0;
 }
 
 @media (min-width: 992px) {
