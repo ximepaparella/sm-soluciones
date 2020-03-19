@@ -1799,6 +1799,10 @@ footer .col-lg-4:last-child {
 .cnt-box-testimonials .testimonial-info {
     font-weight: 600;
 }
+.cnt-box-testimonials-bubble > p {
+    min-height: 170px;
+}
+
 
 .cnt-box-testimonials-bubble > p:after {
     border-right-color: #FFF;
