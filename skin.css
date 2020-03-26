@@ -1783,7 +1783,7 @@ footer .col-lg-4:last-child {
 
 .cnt-box .extra-field {
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 12px; 
     font-weight: 700;
 }
 
@@ -1800,7 +1800,7 @@ footer .col-lg-4:last-child {
     font-weight: 600;
 }
 .cnt-box-testimonials-bubble > p {
-    min-height: 170px;
+    min-height: 230px;
 }
 
 
